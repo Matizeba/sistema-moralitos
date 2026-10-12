@@ -1,0 +1,7 @@
+/node_modules
+/vendor
+/writable/*
+.env
+.DS_Store
+dist/
+build/
